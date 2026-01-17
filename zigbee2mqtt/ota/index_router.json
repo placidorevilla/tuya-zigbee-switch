@@ -1321,7 +1321,7 @@
     "fileVersion": 4294967295,
     "fileSize": 174914,
     "url": "https://github.com/romasku/tuya-zigbee-switch/raw/1c82b23065346fb8b7ec48ebdc329f9158151147/bin/router/MODULE_TUYA_OXT_TS0001/tlc_switch-1.1.2-f31d5fe0-from_tuya.zigbee",
-    "imageType": 54179,
+    "imageType": 513,
     "manufacturerCode": 4417,
     "sha512": "1db97dbc308def110f60f40787bd8c0cb0a764cf1b25674f61059ffeb8f41c9305856e030ee71cab997ac66de928513902694aa0851be5468b03ceed5a321ef4",
     "otaHeaderString": "Telink OTA Image\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
